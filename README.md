@@ -1,2 +1,2 @@
 # RabbitMQ
-MassTransit Implementation
+RabbitMQ MassTransit Implementation
